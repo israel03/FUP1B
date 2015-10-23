@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+59
+'Programa que suma, resta, multiplica y divide dos números'
+4
+1
+29
+'Introduzca el primer número'
+5
+1
+2
+N1
+4
+1
+30
+'Introduzca el segundo número'
+5
+1
+2
+N2
+6
+3
+3
+opp
+5
+N1+N2
+4
+opp2
+5
+N1-N2
+4
+opp3
+5
+N1*N2
+6
+1
+4
+opp4
+5
+N1/N2
+4
+1
+35
+'El resultado de la suma es:' , opp
+4
+1
+37
+'El resultado de la resta es:' , opp2
+4
+1
+46
+'El resultado de la multiplicación es:' , opp3
+4
+1
+40
+'El resultado de la división es:' , opp4
+1

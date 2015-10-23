@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+62
+'Convertidor de megabytes a otras unidades de almacenamiento.'
+4
+1
+53
+'Escribe el numero de megabytes que desea convertir.'
+5
+1
+2
+N1
+6
+3
+10
+operacion1
+10
+N1*8388608
+10
+operacion2
+10
+N1*1048576
+10
+operacion3
+7
+N1*1024
+6
+2
+10
+operacion4
+7
+N1/1024
+10
+operacion5
+12
+N1/1024/1024
+4
+1
+48
+'La conversion de MB a bits es de: ', operacion1
+4
+1
+48
+'La conversion de MB a bytes es de: ',operacion2
+4
+1
+45
+'La conversion de MB a KB es de: ',operacion3
+4
+1
+45
+'La conversion de MB a GB es de: ',operacion4
+4
+1
+45
+'La conversion de MB a TB es de: ',operacion5
+1
